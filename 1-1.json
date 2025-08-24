@@ -37,7 +37,11 @@
   {
     "name": "DAZN LaLiga 1080 MultiAudio Dos",
     "url": "74defb8f4ed3a917fd07c21b34f43c17107ec618"
-  }
+  },
+    {
+      "name": "Dazn LaLiga 720",
+    "url": "4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
+    }
     
   ]
 }
